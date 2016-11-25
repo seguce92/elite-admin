@@ -1,0 +1,24 @@
+{
+    "sProcessing":     "<i class='fa fa-cogs'></i> Procesando...",
+    "sLengthMenu":     "Mostrar _MENU_ Registros",
+    "sZeroRecords":    "<div class='well well-lg'><h4 class='green'><i class='fa fa-search'></i> BUSQUEDA</h4>No se encontraron resultados</div>",
+    "sEmptyTable":     "<div class='well well-lg'><h4 class='blue'><i class='fa fa-info'></i> NFORMACION</h4>Ningún dato disponible en esta tabla</div>",
+    "sInfo":           "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+    "sInfoEmpty":      "Mostrando registros del 0 al 0 de un total de 0 registros",
+    "sInfoFiltered":   "(filtrado de un total de _MAX_ registros)",
+    "sInfoPostFix":    "",
+    "sSearch":         "Buscar: ",
+    "sUrl":            "",
+    "sInfoThousands":  ",",
+    "sLoadingRecords": "<i class='fa fa-spinner'></i> Cargando...",
+    "oPaginate": {
+        "sFirst":    "Primero",
+        "sLast":     "Último",
+        "sNext":     "Siguiente",
+        "sPrevious": "Anterior"
+    },
+    "oAria": {
+        "sSortAscending":  ": Activar para ordenar la columna de manera ascendente",
+        "sSortDescending": ": Activar para ordenar la columna de manera descendente"
+    }
+}
