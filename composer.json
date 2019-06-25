@@ -3,12 +3,12 @@
     "description": "Bootstrap Dashboard Template",
     "keywords": ["laravel", "bootstrap", "dashboard", "template"],
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Sergio Gualberto Cruz Espinoza",
             "email": "seguce92@gmail.com",
-            "homepage": "https://mascodigo.net/"
+            "homepage": "https://sergiocruzes.com/"
         }
     ],
     "require": {
